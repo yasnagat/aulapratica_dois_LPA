@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 
-class menu:
+class Menu:
 	"""A classe MENU tem como"""
 	def __init__(self):
 		self.screen = None
